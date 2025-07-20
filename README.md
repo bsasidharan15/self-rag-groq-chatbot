@@ -58,16 +58,16 @@ graph TD
     H -->|❌ Not Useful| F
     H -->|⚠️ Hallucinated| F
     
-    style A fill:#e1f5fe
-    style I fill:#e8f5e8
-    style F fill:#fff3e0
-    style G fill:#f3e5f5
+    style A fill:#ff8c00
+    style I fill:#ff8c00
+    style F fill:#ff8c00
+    style G fill:#ff8c00
 ```
 
 ## 🚀 Quick Start
 
 ### Prerequisites
-- 🐍 Python 3.8 or higher
+- 🐍 Python 3.12 or higher
 - 🔑 Groq API key ([Get one here](https://console.groq.com/))
 
 ### Installation
@@ -236,7 +236,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -270,5 +270,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-red?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
 [![Powered by Groq](https://img.shields.io/badge/Powered%20by-Groq-orange?style=for-the-badge)](https://groq.com/)
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://python.org/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Python 3.12+](https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python)](https://python.org/)
+[![Apache 2.0 License](https://img.shields.io/badge/License-Apache%202.0-green?style=for-the-badge)](LICENSE)
