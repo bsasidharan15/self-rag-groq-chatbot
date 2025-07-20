@@ -1,0 +1,11 @@
+streamlit
+groq
+langchain-core
+langchain-experimental
+langchain-community
+langchain-docling
+langgraph
+sentence-transformers
+chromadb
+pydantic
+typing-extensions
