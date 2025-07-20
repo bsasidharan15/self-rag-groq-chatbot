@@ -186,9 +186,6 @@ self-rag-groq-chatbot/
 ├── requirements.txt       # Python dependencies
 ├── README.md             # Project documentation
 ├── LICENSE               # MIT License
-└── docs/                 # Additional documentation
-    ├── api-reference.md
-    └── deployment.md
 ```
 
 ### **Key Dependencies**
