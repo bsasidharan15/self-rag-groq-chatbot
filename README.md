@@ -185,7 +185,7 @@ self-rag-groq-chatbot/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── README.md             # Project documentation
-├── LICENSE               # MIT License
+├── LICENSE               # Apache 2.0 License
 ```
 
 ### **Key Dependencies**
